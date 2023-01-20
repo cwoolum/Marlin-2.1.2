@@ -12,8 +12,11 @@
     <a href="https://fosstodon.org/@marlinfirmware"><img alt="Follow MarlinFirmware on Mastodon" src="https://img.shields.io/mastodon/follow/109450200866020466?domain=https%3A%2F%2Ffosstodon.org&logoColor=%2300B&style=social"></a>
 </p>
 
-Additional documentation can be found at the [Marlin Home Page](https://marlinfw.org/).
-Please test this firmware and let us know if it misbehaves in any way. Volunteers are standing by!
+
+# Repo Details
+
+This repo includes a customized configuration for using the SKR E3 Mini V3.0 with a Sprite Extruder assembly and CR-Touch on an Ender 3 Pro. These settings work well for me but may vary dependeing on how your printer is set up. 
+
 
 ## Marlin 2.1
 
